@@ -1,0 +1,49 @@
+body{
+	background-image: url("grey-background-06.jpg");
+	/*background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;*/
+}
+.white{
+	color: white;
+	margin: 0;
+}
+.single{
+	margin-bottom: 50px;
+}
+p{
+	margin: 0;
+}
+.moveRight{
+	margin-left: 5px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+h5{
+	color: white;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.jumbotron{
+	background-image:url("banner.jpg");
+}
+.jumbotronsm{
+	margin-bottom: 20px;
+	padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-weather{
+	    position: absolute;
+    right: 20px;
+}
+.widget{
+	margin: -8px;
+}
